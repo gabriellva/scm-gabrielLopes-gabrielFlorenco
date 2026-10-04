@@ -35,10 +35,9 @@ Não é preciso instalar nada além do navegador:
 Preenchida pelo **Aluno A ao final do laboratório**, com commit e push; o Aluno B faz pull em seguida. (Se os dois editarem este arquivo ao mesmo tempo, vocês ganham um conflito extra — o que também é um bom exercício.)
 
 | Papel | Nome | Usuário do GitHub |
-||---|---|
+|---|---|---|
 | Aluno A — dono do repositório | Gabriel Lopes Vaz de Assis | gabriellva |
-| Aluno B — colaborador | Gabriel Florenço dos Santos | gabrielflorencco |
-
+| Aluno B - colaborador | Gabriel Florenço dos Santos | gabrielflorencoo |
 ---
 
 *Material da disciplina de Engenharia de Software.*
